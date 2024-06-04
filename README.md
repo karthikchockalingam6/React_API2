@@ -74,4 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 This project is built to learn how to integrate api and how to tabulate it with .map() function.
 
 ![input](public/in.png)
-![output](out.png)
+![output](public/out.png)
